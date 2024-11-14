@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 204, 0);
+}
+.katze{
+    float: right;
+}
+.lulu{
+    float: left;
+}
+
+img {
+    width: 200px;
+}
+.Mimi{
+    float:middle;
+
+}
